@@ -1,0 +1,12 @@
+c:\users\eric.jhin\documents\visual studio 2015\Projects\DatesNTimes\DatesNTimes\bin\Debug\DatesNTimes.exe.config
+c:\users\eric.jhin\documents\visual studio 2015\Projects\DatesNTimes\DatesNTimes\obj\Debug\DatesNTimes.csprojResolveAssemblyReference.cache
+c:\users\eric.jhin\documents\visual studio 2015\Projects\DatesNTimes\DatesNTimes\bin\Debug\DatesNTimes.exe
+c:\users\eric.jhin\documents\visual studio 2015\Projects\DatesNTimes\DatesNTimes\bin\Debug\DatesNTimes.pdb
+c:\users\eric.jhin\documents\visual studio 2015\Projects\DatesNTimes\DatesNTimes\obj\Debug\DatesNTimes.exe
+c:\users\eric.jhin\documents\visual studio 2015\Projects\DatesNTimes\DatesNTimes\obj\Debug\DatesNTimes.pdb
+G:\Prog\DatesNTimes\DatesNTimes\bin\Debug\DatesNTimes.exe.config
+G:\Prog\DatesNTimes\DatesNTimes\obj\Debug\DatesNTimes.exe
+G:\Prog\DatesNTimes\DatesNTimes\obj\Debug\DatesNTimes.pdb
+G:\Prog\DatesNTimes\DatesNTimes\bin\Debug\DatesNTimes.exe
+G:\Prog\DatesNTimes\DatesNTimes\bin\Debug\DatesNTimes.pdb
+G:\Prog\DatesNTimes\DatesNTimes\obj\Debug\DatesNTimes.csprojResolveAssemblyReference.cache
