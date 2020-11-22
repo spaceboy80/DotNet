@@ -1,0 +1,6 @@
+D:\Eric\Prog\GenericsCollections\GenericsCollections\bin\Debug\GenericsCollections.exe.config
+D:\Eric\Prog\GenericsCollections\GenericsCollections\bin\Debug\GenericsCollections.exe
+D:\Eric\Prog\GenericsCollections\GenericsCollections\bin\Debug\GenericsCollections.pdb
+D:\Eric\Prog\GenericsCollections\GenericsCollections\obj\Debug\GenericsCollections.csprojResolveAssemblyReference.cache
+D:\Eric\Prog\GenericsCollections\GenericsCollections\obj\Debug\GenericsCollections.exe
+D:\Eric\Prog\GenericsCollections\GenericsCollections\obj\Debug\GenericsCollections.pdb
